@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">货币换算</string>
+    <string name="title_home">家</string>
+    <string name="title_search">搜索</string>
+    <string name="title_favourites">最喜欢的</string>
+    <string name="dialog_base_currency_title">选择基础货币</string>
+    <string name="dialog_base_currency_toast">选择为基础货币</string>
+    <string name="dialog_base_currency_snackbar">选择至少一种货币</string>
+    <string name="dialog_done">完成了</string>
+    <string name="dialog_close">关</string>
+    <string name="dialog_target_currency_title">选择要转换的货币</string>
+    <string name="dialog_target_currency_toast_removed">已移除</string>
+    <string name="dialog_target_currency_toast_selected">已选</string>
+    <string name="dialog_target_currency_snackbar">选择至少一种货币</string>
+    <string name="convert_same_currency_error">不能选择相同货币</string>
+    <string name="add_to_fav_removed">从收藏夹中删除</string>
+    <string name="add_to_fav_added">已添加到收藏夹</string>
+    <string name="currency_rate">货币汇率</string>
+    <string name="currency">货币 :</string>
+    <string name="rate">率 :</string>
+    <string name="value">值 :</string>
+    <string name="error_try_again">发生错误。</string>
+    <string name="favourite_currency_pair">最喜欢的货币对</string>
+    <string name="base_currency">基础货币 :</string>
+    <string name="target_currency">目标货币 :</string>
+    <string name="amount_from">金额来自:</string>
+    <string name="convert_to">转换成:</string>
+    <string name="select_currencies">选择货币</string>
+    <string name="favourite_pairs">最喜欢的对 :</string>
+    <string name="select_language">选择语言</string>
+    <string name="language_changed">语言已更改</string>
+    <string name="help_menu">帮助菜单</string>
+
+    <string name="help_text_home">
+        <![CDATA["<b><h4>货币换算</h4></b>"
+            <br/> <b><h5>作者姓名 :</h5></b> bGuom
+            <br/>
+            <br/> <b><h5>版 :</h5></b> 1.0.
+            <br/>
+            <br/> <b><h5>救命</h5></b>
+            <br/><p>选择基础货币和目标货币作为汇率</p>
+        ]]>
+    </string>
+
+    <string name="help_text_search">
+        <![CDATA["<b><h4>货币换算</h4></b>"
+            <br/> <b><h5>作者姓名 :</h5></b> bGuom
+            <br/>
+            <br/> <b><h5>版 :</h5></b> 1.0.
+            <br/>
+            <br/> <b><h5>救命</h5></b>
+            <br/><p>选择基础货币以获取所有可用汇率</p>
+        ]]>
+    </string>
+
+    <string name="help_text_fav">
+        <![CDATA["<b><h4>货币换算</h4></b>"
+            <br/> <b><h5>作者姓名 :</h5></b> bGuom
+            <br/>
+            <br/> <b><h5>版 :</h5></b> 1.0.
+            <br/>
+            <br/> <b><h5>救命</h5></b>
+            <br/><p>保存的喜欢的货币</p>
+        ]]>
+    </string>
+</resources>
+
+

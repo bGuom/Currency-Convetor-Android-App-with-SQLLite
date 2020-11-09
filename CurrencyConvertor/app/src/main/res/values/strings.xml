@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">CurrencyConvertor</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="dialog_base_currency_title">Choose Base Currency</string>
+    <string name="dialog_base_currency_toast">is selected as base currency</string>
+    <string name="dialog_base_currency_snackbar">Select at least one currency</string>
+    <string name="dialog_done">Done</string>
+    <string name="dialog_close">CLOSE</string>
+    <string name="dialog_target_currency_title">Choose Currencies  to Convert</string>
+    <string name="dialog_target_currency_toast_removed">removed</string>
+    <string name="dialog_target_currency_toast_selected">selected</string>
+    <string name="dialog_target_currency_snackbar">Select at least one currency</string>
+    <string name="convert_same_currency_error">Same currency can not be selected</string>
+    <string name="add_to_fav_removed">is removed from favourites</string>
+    <string name="add_to_fav_added">is added to favourites</string>
+    <string name="currency_rate">Currency Rate</string>
+    <string name="currency">Currency :</string>
+    <string name="rate">Rate:</string>
+    <string name="value">Value :</string>
+    <string name="error_try_again">Error occurred.. Try again</string>
+    <string name="favourite_currency_pair">Favourite Currency Pair</string>
+    <string name="base_currency">Base Currency :</string>
+    <string name="target_currency">Target Currency :</string>
+    <string name="amount_from">Amount From:</string>
+    <string name="convert_to">Convert To:</string>
+    <string name="select_currencies">Select Currencies</string>
+    <string name="favourite_pairs">Favourite Pairs:</string>
+    <string name="select_language">Select Language</string>
+    <string name="language_changed">Language Changed</string>
+    <string name="help_menu">Help Menu</string>
+
+    <string name="help_text_home">
+        <![CDATA["<b><h4>Currency Converter</h4></b>"
+            <br/> <b><h5>Author Name :</h5></b> bGuom
+            <br/>
+            <br/> <b><h5>Version :</h5></b> 1.0.
+            <br/>
+            <br/> <b><h5>Help</h5></b>
+            <br/><p>Select Base currency and target currencies to get exchange rates</p>
+        ]]>
+    </string>
+
+    <string name="help_text_search">
+        <![CDATA["<b><h4>Currency Converter</h4></b>"
+            <br/> <b><h5>Author Name :</h5></b> bGuom
+            <br/>
+            <br/> <b><h5>Version :</h5></b> 1.0.
+            <br/>
+            <br/> <b><h5>Help</h5></b>
+            <br/><p>Select Base currency to get all available exchange rates</p>
+        ]]>
+    </string>
+
+    <string name="help_text_fav">
+        <![CDATA["<b><h4>Currency Converter</h4></b>"
+            <br/> <b><h5>Author Name :</h5></b> bGuom
+            <br/>
+            <br/> <b><h5>Version :</h5></b> 1.0.
+            <br/>
+            <br/> <b><h5>Help</h5></b>
+            <br/><p>Saved Favourite Currencies</p>
+        ]]>
+    </string>
+</resources>
+
+
